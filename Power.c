@@ -14,4 +14,3 @@ int main() {
     printf("%.1lf^%.1lf = %.2lf", base, exp, result);
     return 0;
 }
-© 2022 GitHub, Inc.
